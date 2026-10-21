@@ -1,4 +1,6 @@
 # Student manual — Smart Mobility Le Mans
+> **[dashboard is live](https://business-intelligence-26.github.io/smart-mobility-lemans/)**
+
 
 **Everything below happens in a web browser on github.com. No local install
 required.** Estimated time: 60-90 minutes for the guided build, plus open-ended time
