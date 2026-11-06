@@ -1,67 +1,37 @@
 {
-  "generated_at": "2026-11-05T22:53:28Z",
-  "network_avg_delay_s": 230.4,
-  "n_routes_reporting": 6,
+  "generated_at": "2026-11-06T03:01:04Z",
+  "network_avg_delay_s": 0.0,
+  "n_routes_reporting": 3,
   "routes": [
     {
-      "route_id": "10A",
-      "n_trips_observed": 1,
-      "n_stop_updates": 39,
-      "n_skipped": 29,
-      "avg_delay_s": 1473.2,
-      "max_delay_s": 1657,
-      "snapshot_ts": 1793919208,
-      "route_name": "10A"
-    },
-    {
-      "route_id": "C4",
-      "n_trips_observed": 2,
-      "n_stop_updates": 61,
-      "n_skipped": 0,
-      "avg_delay_s": 11.5,
-      "max_delay_s": 70,
-      "snapshot_ts": 1793919208,
-      "route_name": "C4"
-    },
-    {
       "route_id": "T1",
-      "n_trips_observed": 10,
-      "n_stop_updates": 480,
-      "n_skipped": 240,
-      "avg_delay_s": -10.8,
-      "max_delay_s": 69,
-      "snapshot_ts": 1793919208,
+      "n_trips_observed": 1,
+      "n_stop_updates": 24,
+      "n_skipped": 0,
+      "avg_delay_s": 0.0,
+      "max_delay_s": 0,
+      "snapshot_ts": 1793934064,
       "route_name": "T1"
     },
     {
       "route_id": "T2",
-      "n_trips_observed": 8,
-      "n_stop_updates": 288,
-      "n_skipped": 144,
-      "avg_delay_s": -11.9,
-      "max_delay_s": 65,
-      "snapshot_ts": 1793919208,
+      "n_trips_observed": 1,
+      "n_stop_updates": 18,
+      "n_skipped": 0,
+      "avg_delay_s": 0.0,
+      "max_delay_s": 0,
+      "snapshot_ts": 1793934064,
       "route_name": "T2"
     },
     {
       "route_id": "T3",
-      "n_trips_observed": 6,
-      "n_stop_updates": 84,
+      "n_trips_observed": 1,
+      "n_stop_updates": 14,
       "n_skipped": 0,
-      "avg_delay_s": -36.2,
-      "max_delay_s": 38,
-      "snapshot_ts": 1793919208,
+      "avg_delay_s": 0.0,
+      "max_delay_s": 0,
+      "snapshot_ts": 1793934064,
       "route_name": "T3"
-    },
-    {
-      "route_id": "5",
-      "n_trips_observed": 2,
-      "n_stop_updates": 55,
-      "n_skipped": 5,
-      "avg_delay_s": -43.5,
-      "max_delay_s": 128,
-      "snapshot_ts": 1793919208,
-      "route_name": "5"
     }
   ],
   "alerts": []
